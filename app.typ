@@ -5,3 +5,5 @@
 #image("image-39.png")
 在前面的基础上，求循环卷积
 #image("image-40.png")
+= 判断IIR FIR
+如果有非零的极点就是IIR 
